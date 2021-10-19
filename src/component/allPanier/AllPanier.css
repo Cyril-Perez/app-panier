@@ -1,0 +1,32 @@
+.content-allpanier{
+    width: 500px;
+    margin: auto;
+}
+.content-allpanier p {
+    font-weight: 700;
+}
+.container-item-panier{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-grow: 4;
+    background-color: rgb(207, 202, 202);
+    margin: 25px 0px 25px 0px
+}
+.container-item-panier img{
+    height: 30px;
+    width: 30px;
+    padding: 8px ;
+}
+.title-item{
+    padding: 0px 10px 0px 10px;
+}
+.container-item-panier label{
+    font-weight: 700;
+    padding: 0px 10px 0px 100px;
+
+}
+.container-item-panier input{
+    width: 40px;
+
+}

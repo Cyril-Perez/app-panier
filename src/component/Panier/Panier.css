@@ -1,0 +1,22 @@
+.panier{
+    position: absolute;
+    top: 5px ;
+    right: 50px;
+    font-weight: 700;
+    color: black;
+}
+
+.content-icon span {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(207, 202, 202);
+    position: absolute;
+    top: 7px;
+    right: -45px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    font-size: 1.2rem;
+    
+}
